@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728866275419",
+    "project_id": "mylogin-19440",
+    "storage_bucket": "mylogin-19440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728866275419:android:1aafaad0df35cf4f56ff7e",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728866275419-0c91cdmo54brp9160a0fb8luok53e0lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_2J4HQUfJtekxHXedZwkXPOpdAFMbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728866275419-0c91cdmo54brp9160a0fb8luok53e0lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
